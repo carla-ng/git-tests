@@ -9,3 +9,5 @@ Just something going on
 Updates in stage
 
 More updates in working directory
+
+This is just a readme file
